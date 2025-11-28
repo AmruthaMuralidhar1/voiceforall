@@ -130,15 +130,6 @@ This model is trained on SYSPIN and SPICOR datasets which include multiple speak
 - Respect speaker privacy and consent
 - Follow local regulations for voice synthesis
 
-## Citation
-
-```bibtex
-@dataset{syspin,
-  title={SYSPIN: Multilingual Speech Corpus for Indian Languages},
-  year={2023},
-  organization={IISc Bangalore}
-}
-```
 
 ## License
 
