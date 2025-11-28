@@ -198,8 +198,8 @@ gcloud run deploy voicetech-tts \
 
 - **Challenge**: https://syspin.iisc.ac.in/voicetechforall
 - **Dataset**: https://spiredatasets.ee.iisc.ac.in/syspincorpus
-- **GitHub**: [Your repo link]
-- **Hugging Face**: [Your model link]
+- **GitHub**: https://github.com/AmruthaMuralidhar1/voiceforall/
+- **Hugging Face**: https://huggingface.co/spaces/AmruthaMurali/tts-api
 
 ---
 
